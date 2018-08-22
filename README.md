@@ -6,10 +6,12 @@ There are two file:
 2. Server.c
 # Client.c
 This contains the code for the client side.
-command to complie: gcc -pthread client.c -o client
-command to run :./client <ip>
+
+Command to complie: gcc -pthread client.c -o client
+Command to run :./client <ip>
 # Server.c
 This contains the code for the server side.
-command to complie: gcc -pthread server.c -o server
-command to run :./server
+
+Command to complie: gcc -pthread server.c -o server
+Command to run :./server
   
