@@ -8,10 +8,12 @@ There are two file:
 This contains the code for the client side.
 
 Command to complie: gcc -pthread client.c -o client
+
 Command to run :./client <ip>
 # Server.c
 This contains the code for the server side.
 
 Command to complie: gcc -pthread server.c -o server
+
 Command to run :./server
   
